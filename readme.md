@@ -1,4 +1,4 @@
-# Hacking INF Examples
+# Hacking INF Demo Examples
 
 Documentation for uploading Hacking INF examples.
 
@@ -6,15 +6,15 @@ Documentation for uploading Hacking INF examples.
 
 All Examples are located in the git repository
 
-	https://git-inf.technikum-wien.at/INF/Hacking-INF-Examples
+	https://git-inf.technikum-wien.at/INF/Hacking-INF-Demo-Examples
 
 Access is possible via
 
-	git@git-inf.technikum-wien.at:INF/Hacking-INF-Examples.git
+	git@git-inf.technikum-wien.at:INF/Hacking-INF-Demo-Examples.git
 
 Use these commands to clone the repo:
 
-	git clone git@git-inf.technikum-wien.at:INF/Hacking-INF-Examples.git
+	git clone git@git-inf.technikum-wien.at:INF/Hacking-INF-Demo-Examples.git
 
 ## Courses
 
