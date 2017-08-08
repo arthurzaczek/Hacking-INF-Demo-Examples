@@ -1,0 +1,19 @@
+---
+problemtitle:           CS-HelloWorld
+problemshorttitle:      CS HelloWorld
+category:               HelloWorld
+difficulty:             easy (1/5)
+requires:
+    - checkproject
+    
+author: traditional
+created: 2016
+
+# course overrides
+type:        closed
+filename:    Main.cs
+exe:         /usr/bin/mono Main.exe
+compiler:
+  - cmd:     mcs
+    args:    /out:Main.exe Main.cs
+...

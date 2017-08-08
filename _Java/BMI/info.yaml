@@ -1,0 +1,13 @@
+---
+problemtitle:           BMI
+problemshorttitle:      BMI
+category:               Simple_Functions
+difficulty:             easy (1/5)
+requires:
+    - checkproject
+    
+author: traditional
+created: 2016
+
+type:        closed
+...

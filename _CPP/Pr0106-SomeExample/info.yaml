@@ -1,0 +1,10 @@
+---
+problemtitle:           SomeExample
+problemshorttitle:      SomeExample
+category:               basics
+difficulty:             easy (1/5)
+requires:
+    - checkproject # mehr oder weniger die Lerningoutcomes der Vorlesung welche Voraussetzung fuer dieses Bsp sind.
+    
+author: traditional
+created: 2017

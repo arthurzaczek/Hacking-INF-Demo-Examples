@@ -1,0 +1,22 @@
+---
+problemtitle:           Oktal
+problemshorttitle:      Oktal
+category:               Expressions
+difficulty:             easy (1/5)
+
+
+requires:
+    - HelloWorld
+    - Formatted_Output
+    - Formatted_Input
+    - Expressions
+    
+    
+published:
+    -   study program:  BMR
+        semester: WS17
+        as:     CUE
+        
+        author: Thomas Mandl, David Meyer, Arthur Zaczek
+created: 2016
+...

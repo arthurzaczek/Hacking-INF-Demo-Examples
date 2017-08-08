@@ -1,0 +1,10 @@
+---
+problemtitle:           CPP-HelloWorld
+problemshorttitle:      C++ HelloWorld
+category:               basics
+difficulty:             easy (1/5)
+requires:
+    - checkproject
+    
+author: traditional
+created: 2017

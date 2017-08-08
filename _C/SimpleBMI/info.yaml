@@ -1,0 +1,22 @@
+---
+problemtitle:           SimpleBMI
+problemshorttitle:      SimpleBMI
+category:               Selection_Statements
+difficulty:             easy (1/5)
+requires:
+requires:
+    - Formatted_Output
+    - Formatted_Input
+    - Expressions
+    - Variables
+    - Selection_Statements
+
+    
+published:
+    -   study program:  BIF
+        semester: WS16
+        as:     CUE
+        
+        author: Thomas Mandl, David Meyer, Arthur Zaczek
+created: 2016
+...

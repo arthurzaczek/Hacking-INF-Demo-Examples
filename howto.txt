@@ -1,0 +1,6 @@
+git pull
+Änderungen machen
+(wenn Ordner/Date umbenannt "git mv source destination")
+git status (zeigt was wie genändert wird)
+git add . (alles hinzufügen)
+

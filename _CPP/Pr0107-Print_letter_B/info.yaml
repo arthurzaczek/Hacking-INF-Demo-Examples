@@ -1,0 +1,10 @@
+---
+problemtitle:           WriteLetterB
+problemshorttitle:      WriteLetterB
+category:               Basics
+difficulty:             easy (1/5)
+requires:
+    - checkproject
+    
+author: Thomas Duncan
+created: 2017

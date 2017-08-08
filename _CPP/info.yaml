@@ -1,0 +1,32 @@
+﻿name:        _CPP
+title:       Basic C++
+headline:    Basiskurs C++
+description: Ein Basiskurs in C++
+categories:
+  - name:         basics
+    title:        Basics
+    description:  Basic programs
+    examples:
+    # sorting order of the examples
+      - CPP-HelloWorld 
+      - Pr0106-SomeExample  
+      - Pr0107-Print_letter_B      
+  - name:         helloworld
+    title:        Friedhof der nicht zugewiesenen Beispiele
+    description:  muss noch zugewiesen werden
+    examples:
+
+type:        open
+filename:    main.cpp
+exe:         main
+compiler:
+  - cmd:     g++
+    args:    -Wall -fexceptions -g -pedantic-errors -pedantic -Wextra -c main.cpp -o main.o
+    log:    |
+      Compiler
+      ---------------------------
+  - cmd:     g++
+    args:    -o main main.o
+    log:    |
+      Linker
+      ---------------------------

@@ -1,0 +1,17 @@
+﻿name:        _Java
+title:       Basic Java
+headline:    Basiskurs Java
+description: Ein Basiskurs in Java
+categories:
+  - name:         helloworld
+    title:        Hello World
+    description:  Basic programs
+    examples:
+      - HelloWorld
+      - HelloClass
+type:        open
+filename:    Main.java
+exe:         /usr/bin/java Main
+compiler:
+  - cmd:     javac
+    args:    Main.java
